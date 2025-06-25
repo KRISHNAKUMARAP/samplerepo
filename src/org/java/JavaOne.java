@@ -15,9 +15,11 @@ public class JavaOne {
 	public static void main(String[] args) {
 		
 		int n = 3;
-		int n2 = 5;
+		int n2 = 5, a=7 ;
+		
 		System.out.println(n+n2);
 		
+		System.out.println(a);
 
 		System.out.println(s);
 
